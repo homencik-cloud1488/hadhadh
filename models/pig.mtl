@@ -1,0 +1,25 @@
+# Materials for pig.obj
+newmtl PigGreen
+Kd 0.4200 0.7800 0.2200
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+
+newmtl PigSnout
+Kd 0.6000 0.8800 0.4000
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+
+newmtl PigWhite
+Kd 0.9600 0.9600 0.9600
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+
+newmtl PigDark
+Kd 0.0800 0.0800 0.0800
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+
